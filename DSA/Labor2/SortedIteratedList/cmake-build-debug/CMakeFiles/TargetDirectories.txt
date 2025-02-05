@@ -1,0 +1,3 @@
+C:/Users/Mihaela/Desktop/SortedIteratedList/cmake-build-debug/CMakeFiles/SortedIteratedList.dir
+C:/Users/Mihaela/Desktop/SortedIteratedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mihaela/Desktop/SortedIteratedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
