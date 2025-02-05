@@ -1,3 +1,0 @@
-E:/Algoritmishe Graphentheorie/Laboratoare/Laborator5/cmake-build-debug/CMakeFiles/Laborator5.dir
-E:/Algoritmishe Graphentheorie/Laboratoare/Laborator5/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Algoritmishe Graphentheorie/Laboratoare/Laborator5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
