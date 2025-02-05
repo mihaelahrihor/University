@@ -1,3 +1,0 @@
-C:/Users/Mihaela/Desktop/Algoritmishe Graphentheorie/Laboratoare/Laborator1/cmake-build-debug/CMakeFiles/Laborator1.dir
-C:/Users/Mihaela/Desktop/Algoritmishe Graphentheorie/Laboratoare/Laborator1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mihaela/Desktop/Algoritmishe Graphentheorie/Laboratoare/Laborator1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
