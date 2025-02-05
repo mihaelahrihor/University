@@ -1,0 +1,3 @@
+/Users/gabimoldovan/Documents/an1_sem2/CarSharing/Controller-Autos/cmake-build-debug/CMakeFiles/Controller_Autos.dir
+/Users/gabimoldovan/Documents/an1_sem2/CarSharing/Controller-Autos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabimoldovan/Documents/an1_sem2/CarSharing/Controller-Autos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
